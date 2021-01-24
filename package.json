@@ -1,0 +1,15 @@
+{
+  "name": "curso-nodejs-05-clima-mundo",
+  "version": "1.0.0",
+  "description": "Aplicacin deó l clima",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabian Martinez",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "yargs": "^16.2.0"
+  }
+}
